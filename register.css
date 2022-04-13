@@ -1,0 +1,131 @@
+
+        *{padding: 0%;
+            margin: 0%;
+            }
+                .div1{
+                    width: 100%;
+                    height: 70px;
+                    background-color: rgb(49, 38, 24);
+                    color: aliceblue;
+                    text-align: center;
+                    line-height: 70px;
+                    font-size: 30px;
+                }
+                .div1 h1{color: white;
+                text-decoration: none;}
+                .div2{
+                    width: 100%;
+                    height: 50px;
+                    background-color: rgb(62, 95, 84);
+                    text-align: center;
+                }
+                .div2 ul{
+                    list-style-type: none;
+                }
+        
+                .div2 li{
+                    display: inline;
+                    line-height: 50px;
+                    
+                }
+                .div2 a{
+                    text-decoration: underline;
+                    padding: 2px;
+                    background-color: transparent;
+                    opacity: 0.9;
+                    font-size: 20px;
+                    border-radius: 5px 5px 5px 5px;
+                    color: aliceblue;
+                    padding: 10px;
+                    margin: 2px;
+                    
+                }
+                a:hover{
+                    background-color: greenyellow;
+                    color: black;
+                    border-radius: 1px;
+                }
+                .div3{
+                    width: 45%;
+                    height: 400px;
+                    background-color: rgb(228, 172, 161);
+                    float: left;
+                }
+                .div3 table{
+                    margin: auto;
+                    border: 2px solid white;
+                    border-radius: 10px 10px 10px 10px;
+                }
+                .header{
+                    text-align: center;
+                    text-decoration: underline;
+                }
+                .div3 table,th,td{
+                    text-align: left;
+                    padding: 7px;
+                    font-size: medium;
+                    color: black(253, 170, 68);
+                    font-family: Arial, Helvetica, sans-serif;
+                    
+                }
+                .button{
+                    text-align: center;
+                    /* text-decoration: underline rgb(10, 11, 14); */
+                    color: white;
+
+                }
+                .but{
+                    text-align: center;
+                    background-color: rgb(253, 170, 68);
+                    border: 0px;
+                    border-radius: 10px 10px 10px 10px;
+                    padding: 7px;
+                    font-size: 15px;
+                    margin: 5px;
+                }
+                
+                /* .but{background-color: transparent;
+                color: white;
+            border-style: none;
+        text-decoration: underline;} */
+                .div4{
+                    margin-left: auto;
+                    width: 55%;
+                    height: 400px;
+                    background-color: rgb(253, 170, 68);
+                    }
+        
+                    
+                
+                .div8{
+                    margin-left: auto;
+                    width: 100%;
+                    height: 200px;
+                    background-color: rgb(49, 38, 24);
+                    color: black;
+                    text-align: center;
+                    
+                }
+                .typing{
+
+                    text-align: center;
+                    padding: 5px;
+                }
+                .typing1{
+                    text-align: left;
+                    padding: 10px 20px;
+                 }
+                 
+                .div8 ul li a{
+                    text-decoration: none;
+                    text-align: center;
+                    color:wheat;
+                }
+                .div8 li{padding: 50px;}
+                .div8 a:hover{
+                    background-color: transparent;
+                    color: red;
+                }
+
+                
+            

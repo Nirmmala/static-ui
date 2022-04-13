@@ -1,0 +1,99 @@
+
+        *{padding: 0%;
+            margin: 0%;
+            }
+                .div1{
+                    width: 100%;
+                    height: 70px;
+                    background-color: rgb(128, 112, 93);
+                    color: rgb(230, 230, 247);
+                    text-align: center;
+                    line-height: 70px;
+                    font-size: 30px;
+                }
+                .div2{
+                    width: 100%;
+                    height: 50px;
+                    background-color: rgb(62, 95, 84);
+                    text-align: center;
+                }
+                .div2 ul{
+                    list-style-type: none;
+                }
+        
+                .div2 li{
+                    display: inline;
+                    line-height: 50px;
+                    
+                }
+                .div2 a{
+                    text-decoration: underline;
+                    padding: 2px;
+                    background-color: transparent;
+                    opacity: 0.9;
+                    font-size: 20px;
+                    border-radius: 5px 5px 5px 5px;
+                    color: aliceblue;
+                    padding: 10px;
+                    margin: 2px;
+                    
+                }
+                a:hover{
+                    background-color: greenyellow;
+                    color: black;
+                    border-radius: 1px;
+                }
+                
+                .div4{
+                    margin-left: auto;
+                    width: 100%;
+                    height: 300px;
+                    background-color: rgb(238, 137, 119);
+                    color: rgb(31, 16, 16);
+                    
+                }
+                
+                .div6{
+                    clear: both;
+                    width: 50%;
+                    height: 300px;
+                    background-color: rgb(204, 119, 168);
+                    color: black;
+                    float: left;
+                    
+                }
+                .div7{
+                    margin-left: auto;
+                    width: 50%;
+                    height: 300px;
+                    background-color: rgba(192, 61, 175, 0.445);
+                    color: black;
+                }
+                .div8{
+                    width: 100%;
+                    height: 200px;
+                    background-color: rgb(49, 38, 24);
+                    color: black;
+                    text-align: center;
+                    
+                }
+                .typing{
+                    text-align: center;
+                    padding: 5px;
+                }
+                .typing1{
+                    text-align: center;
+                    padding: 5px;
+                }
+                
+                .div8 ul li a{
+                    text-decoration: none;
+                    text-align: center;
+                    color:wheat;
+                }
+                .div8 li{padding: 50px;}
+                .div8 a:hover{
+                    background-color: transparent;
+                    color: red;
+                }
+            

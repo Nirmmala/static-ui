@@ -1,0 +1,106 @@
+
+        *{padding: 0%;
+            margin: 0%;
+            }
+                .div1{
+                    width: 100%;
+                    height: 70px;
+                    background-color: rgb(128, 112, 93);
+                    color: aliceblue;
+                    text-align: center;
+                    line-height: 70px;
+                    font-size: 30px;
+                }
+                .div2{
+                    width: 100%;
+                    height: 50px;
+                    background-color: rgb(62, 95, 84);
+                    text-align: center;
+                }
+                .div2 ul{
+                    list-style-type: none;
+                }
+        
+                .div2 ul{
+                    list-style-type: none;
+                }
+        
+                .div2 li{
+                    display: inline;
+                    line-height: 50px;
+                    
+                }
+                .div2 a{
+                    text-decoration: underline;
+                    padding: 2px;
+                    background-color: transparent;
+                    opacity: 0.9;
+                    font-size: 20px;
+                    border-radius: 5px 5px 5px 5px;
+                    color: aliceblue;
+                    padding: 10px;
+                    margin: 2px;
+                    
+                }
+                .div3{
+                    float: left;
+                    width: 25%;
+                    height: 500px;
+                    color: rgb(14, 16, 17);
+                    background-color: rgb(204, 129, 129);
+                    text-align: justify;
+                }
+                .div4{
+                    margin-left: auto;
+                    width: 50%;
+                    height: 500px;
+                    background-color: rgb(230, 171, 99);
+                    color: black;
+                    float: left;
+                }
+                .div4 img{
+                    width: 300px;
+                    height: 300px;
+                    padding-left: 10px;
+                    padding-top: 10px;
+                    
+                }
+                .div5{
+                    float: left;
+                    width: 25%;
+                    height: 500px;
+                    color: rgb(11, 13, 15);
+                    background-color: rgb(204, 129, 129);
+                    text-align: justify;
+                }
+                
+                .div8{
+                    clear: both;
+                    width: 100%;
+                    height: 200px;
+                    background-color: rgb(49, 38, 24);
+                    color: black;
+                    text-align: center;
+                    
+                }
+                .typing{
+                    text-align: justify;
+                    padding: 7px;
+                    font-size: smaller;
+                }
+                .typing1{
+                    text-align: center;
+                    padding: 5px;
+                }
+                
+                .div8 ul li a{
+                    text-decoration: none;
+                    text-align: center;
+                    color:wheat;
+                }
+                .div8 li{padding: 50px;}
+                .div8 a:hover{
+                    background-color: transparent;
+                    color: red;
+                }
+            
